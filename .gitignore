@@ -1,0 +1,19 @@
+# Created by https://www.toptal.com/developers/gitignore/api/scala,metals
+# Edit at https://www.toptal.com/developers/gitignore?templates=scala,metals
+
+### Metals ###
+.metals/
+.bloop/
+project/metals.sbt
+
+### Ammonite ###
+.ammonite/
+
+### Scala ###
+*.class
+*.log
+
+## Output Folder ###
+out/
+
+# End of https://www.toptal.com/developers/gitignore/api/scala,metals
